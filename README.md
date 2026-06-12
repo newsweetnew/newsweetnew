@@ -1,24 +1,20 @@
-<h1 align="center">สวัสดีครับ 👋 I'm New (Pongpak)</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมนิว (Pongpak)</h1>
 
-<p align="center">
-ชอบสร้างของด้วยโค้ด — backend, เว็บแอป และงาน AI / automation<br/>
-<i>I like building things with code — backends, web apps, and AI / automation.</i>
-</p>
+<p align="center">dev คนนึงที่ชอบลองทำนู่นทำนี่ — <i>a dev who likes tinkering with things</i></p>
 
 ---
 
-### 🧑‍💻 About Me · เกี่ยวกับผม
+### เกี่ยวกับผม
 
-- 🔭 เล่นกับงานสาย **full-stack** ตั้งแต่ backend ยัน frontend
-- 🤖 ชอบ **AI agents & automation** และลองเอา LLM มาช่วยงานพัฒนา
-- 🌱 สนุกกับการเรียนรู้เครื่องมือใหม่ ๆ และทำให้ของซ้ำ ๆ ทำงานเองอัตโนมัติ
-- 🌏 อยู่ประเทศไทย 🇹🇭
+เขียนโค้ดสายฟูลสแตก ถนัด backend เป็นหลัก แต่ก็แตะงานเว็บฝั่งหน้าบ้านได้อยู่
+ช่วงนี้กำลังอินกับการเอา AI agent มาช่วยทำงาน แล้วก็ชอบหาวิธีให้งานซ้ำ ๆ มันรันเองได้
+อยู่ไทยครับ 🇹🇭
 
 ---
 
-### 🛠️ Tech I Play With
+### ของที่ใช้อยู่ประจำ
 
-**Languages & Frameworks**
+**ภาษา & เฟรมเวิร์ก**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -29,7 +25,7 @@
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-1A1A1A?style=for-the-badge&logo=zapier&logoColor=white)
 
-**Tools & Infra**
+**เครื่องมือ**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -37,7 +33,9 @@
 
 ---
 
-### 🌱 Currently Learning · กำลังเรียนรู้
+### กำลังหัดอยู่
+
+ยังไม่คล่องเท่าไหร่ แต่กำลังค่อย ๆ เก็บ
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,6 +43,8 @@
 ![LLM](https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+ส่วนเรื่อง deploy กับดูแลเซิร์ฟเวอร์เพิ่งเริ่มจับ ยังงง ๆ อยู่
 
-<p align="center"><sub>✨ Just a dev who enjoys building stuff · แค่ dev คนนึงที่ชอบสร้างของ</sub></p>
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_/_Server-444444?style=for-the-badge&logo=linuxcontainers&logoColor=white)
