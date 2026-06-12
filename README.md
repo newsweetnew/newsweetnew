@@ -1,18 +1,18 @@
 <h1 align="center">สวัสดีครับ 👋 ผมนิว (Pongpak)</h1>
 
-<p align="center">dev คนนึงที่ชอบลองทำนู่นทำนี่ — <i>a dev who likes tinkering with things</i></p>
+<p align="center">Full-stack developer ที่สนใจงานฝั่ง backend และ AI / automation</p>
 
 ---
 
 ### เกี่ยวกับผม
 
-เขียนโค้ดสายฟูลสแตก ถนัด backend เป็นหลัก แต่ก็แตะงานเว็บฝั่งหน้าบ้านได้อยู่
-ช่วงนี้กำลังอินกับการเอา AI agent มาช่วยทำงาน แล้วก็ชอบหาวิธีให้งานซ้ำ ๆ มันรันเองได้
-อยู่ไทยครับ 🇹🇭
+พัฒนาซอฟต์แวร์สายฟูลสแตก โดยถนัดงานฝั่ง backend เป็นหลัก และทำงานร่วมกับฝั่ง frontend ได้
+สนใจการนำ AI agent และระบบ automation มาช่วยในกระบวนการพัฒนา เพื่อให้งานที่ทำซ้ำ ๆ ทำงานได้เองอย่างมีประสิทธิภาพ
+ปัจจุบันอยู่ประเทศไทย 🇹🇭
 
 ---
 
-### ของที่ใช้อยู่ประจำ
+### เทคโนโลยีที่ใช้งาน
 
 **ภาษา & เฟรมเวิร์ก**
 
@@ -33,9 +33,9 @@
 
 ---
 
-### กำลังหัดอยู่
+### กำลังศึกษาเพิ่มเติม
 
-ยังไม่คล่องเท่าไหร่ แต่กำลังค่อย ๆ เก็บ
+เทคโนโลยีที่กำลังเรียนรู้และฝึกใช้งานอยู่ในปัจจุบัน
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,7 +43,7 @@
 ![LLM](https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-ส่วนเรื่อง deploy กับดูแลเซิร์ฟเวอร์เพิ่งเริ่มจับ ยังงง ๆ อยู่
+รวมถึงงานด้าน deployment และการดูแลเซิร์ฟเวอร์
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
