@@ -1,23 +1,22 @@
 <h1 align="center">สวัสดีครับ 👋 I'm New (Pongpak)</h1>
-<h3 align="center">Full-stack · AI / Automation Developer</h3>
 
 <p align="center">
-นักพัฒนาสายฟูลสแตก สนใจการสร้างระบบหลังบ้าน เว็บแอป และงาน AI / automation<br/>
-<i>Full-stack developer with a focus on backends, web apps, and AI / automation.</i>
+ชอบสร้างของด้วยโค้ด — backend, เว็บแอป และงาน AI / automation<br/>
+<i>I like building things with code — backends, web apps, and AI / automation.</i>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me · เกี่ยวกับผม
 
-- 🔭 ทำงานสาย **Full-stack** — ตั้งแต่ backend / API ไปจนถึง frontend และ automation
-- 🤖 สนใจ **AI agents & orchestration** และการนำ LLM มาช่วยงานพัฒนา
-- 🌱 ชอบเรียนรู้เครื่องมือใหม่ ๆ และทำให้ workflow ทำงานอัตโนมัติ
-- 🌏 Based in Thailand · สื่อสารได้ทั้งภาษาไทยและอังกฤษ
+- 🔭 เล่นกับงานสาย **full-stack** ตั้งแต่ backend ยัน frontend
+- 🤖 ชอบ **AI agents & automation** และลองเอา LLM มาช่วยงานพัฒนา
+- 🌱 สนุกกับการเรียนรู้เครื่องมือใหม่ ๆ และทำให้ของซ้ำ ๆ ทำงานเองอัตโนมัติ
+- 🌏 อยู่ประเทศไทย 🇹🇭
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech I Play With
 
 **Languages & Frameworks**
 
@@ -43,6 +42,4 @@
 
 ---
 
-### 📫 Contact · ติดต่อ
-
-[![Email](https://img.shields.io/badge/Email-newsweetnew@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newsweetnew@gmail.com)
+<p align="center"><sub>✨ Just a dev who enjoys building stuff · แค่ dev คนนึงที่ชอบสร้างของ</sub></p>
