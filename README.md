@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 ผมนิว (Pongpak)</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมนิว (New Pongpak)</h1>
 
 <p align="center">dev คนนึงที่ชอบลองทำนู่นทำนี่ — <i>a dev who likes tinkering with things</i></p>
 
